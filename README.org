@@ -5,5 +5,5 @@ CL-PDF is a cross-platform Common Lisp library for generating PDF files.
 |---------+---------------------------------------------|
 | source  | git:https://github.com/mbattyani/cl-pdf.git |
 | commit  | 0a1cd33                                     |
-| systems | cl-pdf                                      |
+| systems | cl-pdf cl-pdf-parser                        |
 |---------+---------------------------------------------|
